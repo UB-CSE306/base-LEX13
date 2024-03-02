@@ -2,9 +2,14 @@
 
 ## Introduction
 
-You have been tasked with writing the code to compute the date after a given date.  For example, the date after March 10, 2020 is March 11, 2020. Your code must handle all dates between January 1, 1582 and December 31, 2500.
+You have been tasked with writing the code to compute the date after a given date.  For example, the date after March 5, 2024 is March 6, 2024. Your code must handle all dates between January 1, 1582 and December 31, 2500.
 
 The algorithm for determining whether a year is a leap year can be found here: https://en.wikipedia.org/wiki/Leap_year#Algorithm
+
+#### Note
+
+There is no form for this LEX.  All your work must be documented in your repo files and commit messages.
+
 
 ## Main task
 
@@ -27,6 +32,8 @@ Remember to follow the process we have discussed:
 - Write an appropriate makefile for use with your build tool (make).
 
 - Make sure the use your git repo diligently, branching and merging as appropriate, committing and pushing to the remote repo frequently, and always using meaningful commit messages.
+  
+- Remember that you **MUST** provide evidence for the TA who is assessing your submission that you followed the process and used tools appropriately.
 
 You may refer to any of your previous work in this class (i.e. LEX01 to LEX12, PRE, and EXP01) as well as documentation for any tools we have discussed so far.
 
