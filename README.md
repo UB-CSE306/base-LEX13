@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You have been tasked with writing the code to compute the date after a given date.  For example, the date after March 5, 2024 is March 6, 2024. Your code must handle all dates between January 1, 1582 and December 31, 2500.
+You have been tasked with writing the code to compute the date after a given date.  For example, the date after October 10, 2024 is October 11, 2024. Your code must handle all dates between January 1, 1582 and December 31, 2500.
 
 The algorithm for determining whether a year is a leap year in the Gregorian calendar can be found here: https://en.wikipedia.org/wiki/Leap_year#Gregorian_calendar
 
@@ -13,7 +13,7 @@ There is no form for this LEX.  All your work must be documented in your repo fi
 
 ## Main task
 
-Your main task is to define the nextDay function.  You will find its declaration in Date.h along with a stubbed out implementation in Date.c).  The nextDay function must construct a new Date struct representing the day after its argument, and then return a pointer to that new struct.
+Your main task is to define the `nextDay` function.  You will find its declaration in `Date.h` along with a stubbed out implementation in `Date.c`).  The `nextDay` function must construct a new `Date` _struct_ representing the day after its argument, and then return a pointer to that new _struct_.
 
 ## Process
 
@@ -33,10 +33,10 @@ Remember to follow the process we have discussed:
 
 - Make sure to use your git repo diligently, branching and merging as appropriate, committing and pushing to the remote repo frequently, and always using meaningful commit messages.
   
-- Remember that you **MUST** provide evidence for the TA who is assessing your submission that you followed the process and used tools appropriately.
+- Remember that you **MUST** provide evidence for the SA who is assessing your submission that you followed the process and used tools appropriately.
 
 You may refer to any of your previous work in this class (i.e. LEX01 to LEX12, PRE, and EXP01) as well as documentation for any tools we have discussed so far.
 
 ## Finishing up
 
-Make sure you remember to **add/commit/push to your repo on GitHub** - if you don't we can't grade your work!
+Make sure you remember to merge your branches back to main and **add/commit/push to your repo on GitHub** - if you don't we can't grade your work!
